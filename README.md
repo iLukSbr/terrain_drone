@@ -15,6 +15,6 @@ Terrain reconnaissance drone with:
 * GPS NEO-M8N;
 * Infrared thermal sensor for agricultural land;
 * 9-DOF BNO0555 accelerometer/gyroscope/magnetometer;
-* Altitude/pressure/temperature/humidity sensor.
+* Altitude/pressure/temperature/humidity sensor;
 * INA219 multimeter;
 * LiPo battery 6S.
