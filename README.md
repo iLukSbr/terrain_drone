@@ -1,4 +1,6 @@
 # Terrain Reconnaissance Drone
+Project under development.
+
 Terrain reconnaissance drone with:
 * STM32 ChibiOS FreeRTOS-based Ardupilot;
 * Raspberry Pi Linux-based OpenCV artificial intelligence aerial photogrammetry and object recognition;
